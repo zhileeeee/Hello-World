@@ -34,7 +34,7 @@ These are the instructions for documenting the project.
 <a name="Documentation"></a>
 
 ## Conclusion
-This is the conclusion for the project. 
+**This is the conclusion for the project**. 
 
 <a name="Conclusion"></a>
 
